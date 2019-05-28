@@ -66,3 +66,22 @@ request/response
 
 Examples:
  - TCP/IP application layer contains
+
+### Ajax
+
+Short for asynchronous JavaScript and XML.
+A set of web development techniques using many web technologies on the client side to create asynchronous web applications.
+
+Not a single technology, but a group of technologies.
+
+HTML and CSS can be used in combination to mark up and style information. The webpage can then be modified by JavaScript to dynamically display—and allow the user to interact with—the new information.
+
+By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and, by extension, web applications, to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML.
+
+### cURL
+
+A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various protocols.
+
+### MVC
+
+Model - View - Controller
