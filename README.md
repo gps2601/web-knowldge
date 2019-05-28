@@ -47,9 +47,17 @@ Describes the action to be performed
  - CONNECT
  - PUT
 
+### HTTP Status Codes
+
+HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes: informational responses, successful responses, redirects, client errors, and servers errors.
+
 ### Request Target
 
 Usually a URL or absolute path to the server. E.g. GET /background.png HTTP/1.0
+
+### API
+
+API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API.
 
 ### Application layer
 
