@@ -85,3 +85,10 @@ A computer software project providing a library (libcurl) and command-line tool 
 ### MVC
 
 Model - View - Controller
+
+...
+
+Cookie
+Session
+DNS
+Local Storage
